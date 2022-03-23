@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: C:\Users\lemin\source\repos\WebApplication1\WebApplication1.sln
     - name: Build
-      run: dotnet build --no-restore
+      run: C:\Users\lemin\source\repos\WebApplication1\WebApplication1.sln
     - name: Test
       run: C:\Users\lemin\source\repos\WebApplication1\WebApplication1.sln
